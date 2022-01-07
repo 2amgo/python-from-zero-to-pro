@@ -3,3 +3,5 @@
 #2. kieu string 3. kieu boolen #
 name = "Iron - man"
 print("Hello ! my name's : " + name)
+# thay doi lan 1
+salary = 100
